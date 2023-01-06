@@ -1,0 +1,88 @@
+{
+    "telemetry.telemetryLevel": "error",
+    "python.defaultInterpreterPath": "C:\\Users\\k31952\\.conda\\envs\\basic\\python.exe",
+    "editor.fontSize": 20,
+    "debug.inlineValues": "on",
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Theme (Italic)",
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.tokenColorCustomizations": {
+                                            // "comments": "#474394"
+                                            "comments": "#4a469e"
+
+    },
+    // python indent
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4 
+      },
+      
+
+    // jupyter cell line number visibility
+    "notebook.lineNumbers": "on",
+
+    "workbench.colorCustomizations": { 
+        
+                                                // "editor.background": "#020212", //dark navy color
+                                                "editor.background": "#14110b",  // pleasant dark gray color
+
+                                                "activityBar.background": "#040130",
+                                                "activityBar.foreground": "#81dbb1",
+                                                "menu.foreground": "#6188c7",
+                                                "activityBar.activeBackground": "#400707",
+
+                                                //jupyter cell color
+                                                "notebook.cellEditorBackground": "#020212", //dark navy color
+                                                // "notebook.cellEditorBackground": "#14110b" // pleasant dark gray color
+
+                                                // horizontal line below tabs
+                                                "editorGroupHeader.tabsBackground": "#09081c",
+                                                "editorGroupHeader.tabsBorder": "#0a3817",
+                                                "editorGroupHeader.border": "#0a3817",
+
+
+
+                                                //// Menu bar ///////////////////////////////////
+                                                // "menu.foreground": "#ff0000",
+
+
+                                                // Active Tab color & highlight
+                                                "tab.activeBorder": "#5ddcf0",
+                                                // "tab.unfocusedActiveBorder": "#685fc7",
+                                                "tab.unfocusedActiveBorder": "#a09eb8",
+
+
+                                                // highlight unsaved edited tabs
+                                                "workbench.editor.highlightModifiedTabs": true,
+                                                "tab.activeModifiedBorder": "#ff0000",
+                                                "tab.inactiveModifiedBorder": "#5c0b32",
+                                                "tab.unfocusedActiveModifiedBorder": "#5c0b32",
+                                                "tab.unfocusedInactiveModifiedBorder": "#5c0b32",
+
+                                                ////All possible menu settings!
+                                                //"menubar.selectionForeground":"#ff0000",
+                                                //"menubar.selectionBackground":"#ff0000",
+                                                //"menubar.selectionBorder":"#ff0000",
+                                                //"menu.background":"#ff0000",
+                                                //"menu.selectionForeground":"#ff0000",
+                                                //"menu.selectionBackground":"#ff0000",
+                                                //"menu.selectionBorder":"#ff0000",
+                                                //"menu.separatorBackground":"#ff0000",
+                                                //"menu.border":"#ff0000",
+
+                                                //// Activity Bar ///////////////////////////////
+                                                // "activityBar.foreground": "#ff0000",
+                                                //All possible activity bar settings!
+                                                //"activityBar.background": "#ff0000",
+                                                //"activityBar.dropBorder": "#ff0000",
+                                                //"activityBar.inactiveForeground": "#ff0000",
+                                                //"activityBar.border": "#ff0000",
+                                                //"activityBarBadge.background": "#ff0000",
+                                                //"activityBarBadge.foreground": "#ff0000",
+                                                //"activityBar.activeBorder": "#ff0000",
+                                                //"activityBar.activeBackground": "#ff0000",
+                                                //"activityBar.activeFocusBorder": "#ff0000",
+        
+    }
+    
+}
